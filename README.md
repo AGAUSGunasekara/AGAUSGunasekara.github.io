@@ -7,7 +7,6 @@
   <img src="https://github.com/your-username/your-username/blob/main/profile.jpg" width="150" alt="Profile Photo">
 </p>
 
-## 📝 Introduction  
 Welcome to my GitHub profile! I am a **final-year undergraduate in Applied Data Science Communication at General Sir John Kotelawala Defence University**, passionate about **Machine Learning, Natural Language Processing (NLP), and Data Visualization**. Feel free to explore my projects and connect with me!  
 
 ## 🚀 Projects  
@@ -102,6 +101,19 @@ A Power BI-based dashboard analyzing Energy Performance Certificate (EPC) data f
  
  **Visuals:**  
 ![Project Screenshot](https://github.com/your-username/your-username/blob/main/project1.jpg)  
+
+###  NO2-Air-Pollution-Analysis  
+This project examines the impact of Nitrogen Dioxide (NO₂) pollution in WHO member countries between 2010 and 2019 using Machine Learning techniques. The study applies a Random Forest Regressor model, achieving exceptional predictive accuracy (MSE: 0.00545, R²: 0.99996) in evaluating NO₂ concentration trends. 
+
+**Technologies Used:**  
+- Programming Languages: **Python**
+- Libraries & Frameworks: **Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn**
+- Machine Learning Model: **Random Forest Regressor**
+
+ **[NO2-Air-Pollution-Analysis](https://github.com/AGAUSGunasekara/NO2-Air-Pollution-Analysis)**  
+ 
+ **Visuals:**  
+![Project Screenshot](https://github.com/your-username/your-username/blob/main/project1.jpg) 
 
 ## 💻 Skills  
 - **Programming:** Python, R, SQL  
