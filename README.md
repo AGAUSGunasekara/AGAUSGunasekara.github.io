@@ -1,3 +1,12 @@
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm Uthpala Gunasekara</h1>
+<h3 align="center">Final-Year Undergraduate in Applied Data Science Communication</h3>
+
+<!-- Profile Photo -->
+<p align="center">
+  <img src="https://github.com/AGAUSGunasekara/AGAUSGunasekara.github.io/blob/main/Images/me1.png" width="150" alt="Profile Photo">
+</p>
+
 Welcome to my GitHub profile! I am a **final-year undergraduate in Applied Data Science Communication at General Sir John Kotelawala Defence University**, passionate about **Machine Learning, Natural Language Processing (NLP), and Data Visualization**. Feel free to explore my projects and connect with me!  
 
 ## 🚀 Projects  
